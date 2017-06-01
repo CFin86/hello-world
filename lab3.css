@@ -1,0 +1,28 @@
+
+h1, p .btn {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3 {
+  text-transform: uppercase;
+}
+.btn {
+
+  position: relative;
+  top: 25px;
+  left: 450px;
+  height:132px;
+  width:132px;
+  font-size: 20px;
+  background-color: gray;
+  color: Black bold;
+  
+  }
+
+.btn:active{
+  background-color: lightgray;
+}
+.friend {
+  background-color: blue;
+  /*text-transform: uppercase;*/
+}
