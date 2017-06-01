@@ -1,4 +1,4 @@
 # Covalence
-This is for learning github
+Lab 3, Day 2 05.31.2017
 
-This is the edit for "Make and commit changes"
+
